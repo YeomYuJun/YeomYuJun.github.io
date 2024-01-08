@@ -133,4 +133,7 @@ SELECT ANSWER_ID
 			,ANS_CONTENT
 FROM SURVEY_ANS
 WHERE  QUESTION_ID = 2;
-https://vertabelo.com/blog/database-design-survey-system/;
+
+https://vertabelo.com/blog/database-design-survey-system/
+
+https://stackoverflow.com/questions/1764435/database-design-for-a-survey
